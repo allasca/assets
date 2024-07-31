@@ -1,5 +1,7 @@
 {
-  "cpus":[
-    
+  "device":[
+    {
+      "allasca":"560A18C4-2EBF-45E6-B6C7-C363CCDC81CE"
+    }
   ]
 }
