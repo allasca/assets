@@ -5,6 +5,12 @@
             "id": "all",
             "master": "allasca",
             "model": "Pixel 6a"
+        },
+        {
+            "id": "yudha",
+            "master": "allasca",
+            "model": "SM-S9260"
         }
     ]
+
 }
