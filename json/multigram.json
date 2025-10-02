@@ -35,10 +35,41 @@
             "id": "memek",
             "master": "memey",
             "model": "V2202"
+        },
+        {
+            "id": "xxn",
+            "master": "yeni",
+            "model": "CPH2483"
+        },
+        {
+            "id": "izuna",
+            "master": "hel",
+            "model": "SM-A515F"
+        },
+        {
+            "id": "eyn",
+            "master": "rein",
+            "model": "2412DPC0AG"
+        },
+        {
+            "id": "aimissyu",
+            "master": "she",
+            "model": "23108RN04Y"
+        },
+        {
+            "id": "zoz",
+            "master": "abang",
+            "model": "SM-G965F"
+        },
+        {
+            "id": "sadboy",
+            "master": "mila",
+            "model": "SM-A226B"
+        },
+        {
+            "id": "algojo",
+            "master": "ophan",
+            "model": "23108RN04Y"
         }
     ]
-
 }
-
-
-
