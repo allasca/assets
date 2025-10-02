@@ -15,9 +15,30 @@
             "id": "fish",
             "master": "xhen",
             "model": "SM-S928B"
+        },
+        {
+            "id": "ardy",
+            "master": "bul",
+            "model": "Infinix X689B"
+        },
+        {
+            "id": "bebih",
+            "master": "anindhitarez",
+            "model": "M2101K7BNY"
+        },
+        {
+            "id": "jabul",
+            "master": "bul",
+            "model": "CPH2209"
+        },
+        {
+            "id": "memek",
+            "master": "memey",
+            "model": "V2202"
         }
     ]
 
 }
+
 
 
