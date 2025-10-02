@@ -10,7 +10,13 @@
             "id": "yudha",
             "master": "allasca",
             "model": "SM-S9260"
+        },
+        {
+            "id": "fish",
+            "master": "xhen",
+            "model": "SM-S928B/DS"
         }
     ]
 
 }
+
