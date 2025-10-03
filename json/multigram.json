@@ -70,6 +70,46 @@
             "id": "algojo",
             "master": "ophan",
             "model": "23108RN04Y"
+        },
+        {
+            "id": "mayy",
+            "master": "mayya",
+            "model": "SM-A127F"
+        },
+        {
+            "id": "fabian_",
+            "master": "siizia",
+            "model": "CPH2731"
+        },
+        {
+            "id": "servers",
+            "master": "jib",
+            "model": "SM-A115F"
+        },
+        {
+            "id": "sodom",
+            "master": "glen",
+            "model": "SM-A556E"
+        },
+        {
+            "id": "hepti",
+            "master": "gembil",
+            "model": "M2101K7BNY"
+        },
+        {
+            "id": "siko",
+            "master": "din",
+            "model": "CPH2631"
+        },
+        {
+            "id": "balok",
+            "master": "gadis",
+            "model": "2306EPN60G"
+        },
+        {
+            "id": "aime",
+            "master": "aiera.",
+            "model": "CPH2629"
         }
     ]
 }
