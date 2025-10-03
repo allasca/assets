@@ -79,7 +79,7 @@
         {
             "id": "fabian_",
             "master": "siizia",
-            "model": "CPH2731"
+            "model": "CPH2631"
         },
         {
             "id": "servers",
@@ -110,6 +110,31 @@
             "id": "aime",
             "master": "aiera.",
             "model": "CPH2629"
+        },
+        {
+            "id": "gap-",
+            "master": "brey",
+            "model": "SM-A037F"
+        },
+        {
+            "id": "gan",
+            "master": "mamat",
+            "model": "RMX3286"
+        },
+        {
+            "id": "d.y.n",
+            "master": "zos",
+            "model": "SM-127F"
+        },
+        {
+            "id": "wez",
+            "master": "keybooyz",
+            "model": "V2116"
+        },
+        {
+            "id": "suwike",
+            "master": "wildhan",
+            "model": "23108RN04Y"
         }
     ]
 }
