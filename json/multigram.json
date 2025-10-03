@@ -140,6 +140,11 @@
             "id": "seki",
             "master": "ayah",
             "model": "SM-S938N"
+        },
+        {
+            "id": "bik",
+            "master": "braydle",
+            "model": "CPH2387"
         }
     ]
 }
