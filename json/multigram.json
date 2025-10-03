@@ -135,6 +135,11 @@
             "id": "suwike",
             "master": "wildhan",
             "model": "23108RN04Y"
+        },
+        {
+            "id": "seki",
+            "master": "ayah",
+            "model": "SM-S938N"
         }
     ]
 }
