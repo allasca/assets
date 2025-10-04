@@ -150,6 +150,16 @@
             "id": "doho",
             "master": "hitman",
             "model": "2201117TY"
+        },
+        {
+            "id": "cud",
+            "master": "cuds",
+            "model": "2311DRK48G"
+        },
+        {
+            "id": "bhy",
+            "master": "abhy",
+            "model": "RMX3710"
         }
     ]
 }
