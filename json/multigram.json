@@ -160,6 +160,11 @@
             "id": "bhy",
             "master": "abhy",
             "model": "RMX3710"
+        },
+        {
+            "id": "xmax",
+            "master": "ayik",
+            "model": "CPH2359"
         }
     ]
 }
