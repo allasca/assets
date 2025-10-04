@@ -1,5 +1,5 @@
 {
-    "announcement": "Selamat datang kembali :)",
+    "announcement": "happy eueing :)",
     "auth": [
         {
             "id": "all",
@@ -145,6 +145,11 @@
             "id": "bik",
             "master": "braydle",
             "model": "CPH2387"
+        },
+        {
+            "id": "doho",
+            "master": "hitman",
+            "model": "2201117TY"
         }
     ]
 }
