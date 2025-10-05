@@ -180,6 +180,11 @@
             "id": "henny",
             "master": "henny_chang",
             "model": "SM-A556E"
+        },
+        {
+            "id": "gown",
+            "master": "ghon",
+            "model": "24040RN64Y"
         }
     ]
 }
