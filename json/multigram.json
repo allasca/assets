@@ -170,6 +170,11 @@
             "id": "agiill",
             "master": "phai",
             "model": "Infinix X6882"
+        },
+        {
+            "id": "hadeh",
+            "master": "metland",
+            "model": "V2029"
         }
     ]
 }
