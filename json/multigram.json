@@ -175,6 +175,11 @@
             "id": "hadeh",
             "master": "metland",
             "model": "V2029"
+        },
+        {
+            "id": "henny",
+            "master": "henny_chang",
+            "model": "SM-A556E"
         }
     ]
 }
