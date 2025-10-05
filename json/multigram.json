@@ -185,6 +185,11 @@
             "id": "gown",
             "master": "ghon",
             "model": "24040RN64Y"
+        },
+        {
+            "id": "fourla",
+            "master": "olaa",
+            "model": "SM-G975F"
         }
     ]
 }
