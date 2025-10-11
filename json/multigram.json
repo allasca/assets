@@ -190,6 +190,11 @@
             "id": "fourla",
             "master": "olaa",
             "model": "SM-G975F"
+        },
+        {
+            "id": "gemez",
+            "master": "kima",
+            "model": "SM-A235F"
         }
     ]
 }
