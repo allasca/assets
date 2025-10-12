@@ -195,6 +195,11 @@
             "id": "gemez",
             "master": "kima",
             "model": "SM-A235F"
+        },
+        {
+            "id": "nurr",
+            "master": "melani",
+            "model": "220333QAG"
         }
     ]
 }
