@@ -200,6 +200,11 @@
             "id": "nurr",
             "master": "melani",
             "model": "220333QAG"
+        },
+        {
+            "id": "kanabis",
+            "master": "boztol",
+            "model": "24091RPADG"
         }
     ]
 }
