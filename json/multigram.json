@@ -205,6 +205,11 @@
             "id": "kanabis",
             "master": "boztol",
             "model": "24091RPADG"
+        },
+        {
+            "id": "adidas",
+            "master": "raja",
+            "model": "Infinix X6882"
         }
     ]
 }
