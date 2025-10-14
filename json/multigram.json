@@ -210,6 +210,11 @@
             "id": "adidas",
             "master": "raja",
             "model": "Infinix X6882"
-        }
+        },
+        {
+            "id": "alielrumi",
+            "master": "jendheral",
+            "model": "Pixel 7"
+        },
     ]
 }
