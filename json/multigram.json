@@ -230,6 +230,11 @@
             "id": "spin",
             "master": "ups",
             "model": "CPH1871"
+        },
+        {
+            "id": "ajus",
+            "master": "poo",
+            "model": "SM-A525F"
         }
     ]
 }
