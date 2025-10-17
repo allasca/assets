@@ -240,6 +240,11 @@
             "id": "bejat",
             "master": "bijaksana",
             "model": "22101316G"
+        },
+        {
+            "id": "scorpion",
+            "master": "poker",
+            "model": "M2010J19CG"
         }
     ]
 }
