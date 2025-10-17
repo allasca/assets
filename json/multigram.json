@@ -235,6 +235,11 @@
             "id": "popo",
             "master": "poo",
             "model": "SM-A525F"
+        },
+        {
+            "id": "bejat",
+            "master": "bijaksana",
+            "model": "22101316G"
         }
     ]
 }
