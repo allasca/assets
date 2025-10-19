@@ -1,5 +1,5 @@
 {
-    "announcement": "happy eueing :)",
+    "announcement": "rawr rawr rawr",
     "auth": [
         {
             "id": "all",
@@ -60,11 +60,6 @@
             "id": "zoz",
             "master": "abang",
             "model": "SM-G965F"
-        },
-        {
-            "id": "dimar",
-            "master": "allasca",
-            "model": "SM-S9260"
         },
         {
             "id": "sadboy",
@@ -259,5 +254,6 @@
     ]
 
 }
+
 
 
