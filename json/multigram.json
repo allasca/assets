@@ -62,7 +62,7 @@
             "model": "SM-G965F"
         },
         {
-            "id": "oops",
+            "id": "dimar",
             "master": "allasca",
             "model": "SM-S9260"
         },
@@ -259,4 +259,5 @@
     ]
 
 }
+
 
