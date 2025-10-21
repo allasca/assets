@@ -68,7 +68,7 @@
         },
         {
             "id": "algojo",
-            "master": "ophan",
+            "master": "gibran",
             "model": "23108RN04Y"
         },
         {
@@ -163,7 +163,7 @@
         },
         {
             "id": "xmax",
-            "master": "ayik",
+            "master": "lubna",
             "model": "CPH2359"
         },
         {
@@ -254,6 +254,7 @@
     ]
 
 }
+
 
 
 
