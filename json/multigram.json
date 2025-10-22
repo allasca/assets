@@ -162,7 +162,7 @@
             "model": "RMX3710"
         },
         {
-            "id": "xmax",
+            "id": "virm",
             "master": "lubna",
             "model": "CPH2359"
         },
@@ -254,6 +254,7 @@
     ]
 
 }
+
 
 
 
