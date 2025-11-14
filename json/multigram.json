@@ -250,10 +250,16 @@
             "id": "malware",
             "master": "grim",
             "model": "Redmi S2"
+        },
+        {
+            "id": "xxxxx",
+            "master": "gilang",
+            "model": "M2010J19CG"
         }
     ]
 
 }
+
 
 
 
