@@ -255,6 +255,11 @@
             "id": "xxxxx",
             "master": "gilang",
             "model": "M2010J19CG"
+        },
+        {
+            "id": "bayi",
+            "master": "tyo",
+            "model": "CPH2239"
         }
     ]
 
