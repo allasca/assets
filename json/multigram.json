@@ -68,7 +68,7 @@
         },
         {
             "id": "algojo",
-            "master": "gibran",
+            "master": "ophan",
             "model": "24094RAD4G"
         },
         {
@@ -264,6 +264,7 @@
     ]
 
 }
+
 
 
 
